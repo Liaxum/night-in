@@ -104,6 +104,8 @@ import { supabase } from './supabase';
 .container .form button {
   width: 43px;
   height: 43px;
+  border: none;
+  border-radius: 0;
 }
 
 
@@ -182,12 +184,12 @@ import { supabase } from './supabase';
 }
 
 .container .rectangle {
-  height: 290px;
+  height: 500px;
   left: 11px;
   position: absolute;
   top: 15px;
   transform: rotate(-4.73deg);
-  width: 370px;
+  width: 500px;
 }
 
 .container .rectangle-2 {
