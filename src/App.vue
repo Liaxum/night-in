@@ -189,7 +189,7 @@ import { supabase } from './supabase';
   position: absolute;
   top: 15px;
   transform: rotate(-4.73deg);
-  width: 500px;
+  width: 300px;
 }
 
 .container .rectangle-2 {
