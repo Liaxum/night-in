@@ -184,7 +184,7 @@ import { supabase } from './supabase';
 }
 
 .container .rectangle {
-  height: 500px;
+  height: 290px;
   left: 11px;
   position: absolute;
   top: 15px;
